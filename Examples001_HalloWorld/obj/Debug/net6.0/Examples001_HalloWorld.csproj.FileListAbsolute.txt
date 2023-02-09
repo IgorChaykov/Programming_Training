@@ -1,0 +1,15 @@
+C:\Users\Игорь\Documents\GB\Examples\Examples001_HalloWorld\bin\Debug\net6.0\Examples001_HalloWorld.exe
+C:\Users\Игорь\Documents\GB\Examples\Examples001_HalloWorld\bin\Debug\net6.0\Examples001_HalloWorld.deps.json
+C:\Users\Игорь\Documents\GB\Examples\Examples001_HalloWorld\bin\Debug\net6.0\Examples001_HalloWorld.runtimeconfig.json
+C:\Users\Игорь\Documents\GB\Examples\Examples001_HalloWorld\bin\Debug\net6.0\Examples001_HalloWorld.dll
+C:\Users\Игорь\Documents\GB\Examples\Examples001_HalloWorld\bin\Debug\net6.0\Examples001_HalloWorld.pdb
+C:\Users\Игорь\Documents\GB\Examples\Examples001_HalloWorld\obj\Debug\net6.0\Examples001_HalloWorld.csproj.AssemblyReference.cache
+C:\Users\Игорь\Documents\GB\Examples\Examples001_HalloWorld\obj\Debug\net6.0\Examples001_HalloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\Documents\GB\Examples\Examples001_HalloWorld\obj\Debug\net6.0\Examples001_HalloWorld.AssemblyInfoInputs.cache
+C:\Users\Игорь\Documents\GB\Examples\Examples001_HalloWorld\obj\Debug\net6.0\Examples001_HalloWorld.AssemblyInfo.cs
+C:\Users\Игорь\Documents\GB\Examples\Examples001_HalloWorld\obj\Debug\net6.0\Examples001_HalloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Documents\GB\Examples\Examples001_HalloWorld\obj\Debug\net6.0\Examples001_HalloWorld.dll
+C:\Users\Игорь\Documents\GB\Examples\Examples001_HalloWorld\obj\Debug\net6.0\refint\Examples001_HalloWorld.dll
+C:\Users\Игорь\Documents\GB\Examples\Examples001_HalloWorld\obj\Debug\net6.0\Examples001_HalloWorld.pdb
+C:\Users\Игорь\Documents\GB\Examples\Examples001_HalloWorld\obj\Debug\net6.0\Examples001_HalloWorld.genruntimeconfig.cache
+C:\Users\Игорь\Documents\GB\Examples\Examples001_HalloWorld\obj\Debug\net6.0\ref\Examples001_HalloWorld.dll
