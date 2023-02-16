@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Enter three-digit number ");
+﻿Console.WriteLine("Enter three-digit number ");
 int num = Convert.ToInt32(Console.ReadLine());
 if (num < 100 || num > 999)
 {
