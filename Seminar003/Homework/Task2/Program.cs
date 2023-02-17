@@ -15,9 +15,10 @@ pointB[1] = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("z(B): ");
 pointB[2] = Convert.ToDouble(Console.ReadLine());
 
-double ABx = point2[0] - point1[0];
-double ABy = point2[1] - point1[1];
-double ABz = point2[2] - point1[2];
+double ABx = pointB[0] - pointA[0];
+double ABy = pointB[1] - pointA[1];
+double ABz = pointB[2] - pointA[2];
 
 double distance = Math.Sqrt(Math.Pow(ABx, 2) + Math.Pow(ABy, 2) + Math.Pow(ABz, 2));
 Console.WriteLine(distance);
+
