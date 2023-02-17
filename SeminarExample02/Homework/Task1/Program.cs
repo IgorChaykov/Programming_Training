@@ -6,7 +6,8 @@ if (num < 100 || num > 999)
 }
 else
 {
-    num = num / 10; num = num % 10;
+    num = num / 10; 
+    num = num % 10;
     Console.WriteLine(num);
 }
 

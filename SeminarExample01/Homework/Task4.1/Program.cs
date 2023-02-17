@@ -23,5 +23,6 @@ while (count != N)
 if (count % 2 == 0)
 {
   Console.WriteLine(count);  
-}}}
-
+}
+}
+}
