@@ -15,7 +15,7 @@ Console.WriteLine("enter a five-digit number");
 int num = Convert.ToInt32(Console.ReadLine());
 if (num >= 100000 || num <= 9999 )
 {
-    Console.WriteLine($"{num} not a five-digit numbe");
+    Console.WriteLine($"{num} not a five-digit number");
     
 }
 else 
